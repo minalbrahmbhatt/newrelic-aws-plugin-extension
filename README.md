@@ -1,4 +1,11 @@
-# New Relic Amazon CloudWatch Plugin
+# New Relic Amazon CloudWatch Plugin Extension
+
+## These are the tools added to the extension
+- Lambda
+- Kinesis
+- Firehose
+- Redshift
+Everything else remains the same
 
 This tool provides the metric collection agents for the following New Relic plugins:
 
